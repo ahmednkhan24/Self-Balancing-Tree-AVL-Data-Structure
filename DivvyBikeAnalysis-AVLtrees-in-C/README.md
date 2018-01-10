@@ -1,11 +1,12 @@
-﻿University of Illinois (Chicago): Divvy Bike Ride Analysis using C
+﻿# University of Illinois (Chicago): Divvy Bike Ride Analysis using C
 
+## Objective
 This project uses data obtained from the official Divvy Bike website. The files are in .csv format.
 It takes the raw data and creates a self balancing tree that can be searched through in much less than a second.
 
 The two files must be input first before any statistics can be calculated. A sample picture of valid input is given to demonstrate the functionality of the program. Although input error-checking is done within the program, the sample picture only shows valid input.
 
-Functionality
+## Functionality
 	Find
 		Input format: Latitude Longitude Distance
 		Finds all Divvy Bike stations that are within ‘Distance’ range of the given location
@@ -21,7 +22,7 @@ Functionality
 
 
 
-Self Balancing Binary Search Tree Information
+###### Self Balancing Binary Search Tree Information
 
 Binary search trees are one of the most powerful and reliable data structures in computer programming due to their fast search time.
 A self-balancing tree containing N items allows the lookup, insertion, and removal of an item in O(logN) for the worst-case. Creating and using binary search trees involve a heavy use and understanding of recursion.

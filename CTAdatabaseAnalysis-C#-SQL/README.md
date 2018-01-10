@@ -1,5 +1,6 @@
-University of Illinois (Chicago): CTA Database Analysis using C# and SQL
+# University of Illinois (Chicago): CTA Database Analysis using C# and SQL
 
+## Objective
 This project uses data obtained from a Chicago Transit Authority database. 
 There are 5 unique tables within the database that are all connected using primary and foreign keys.
 
@@ -12,7 +13,7 @@ Changing the database directory can be done at the bottom of the GUI by typing i
 
 Initial Build: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExecution/cta.PNG
 
-
+## Functionality
 In order to start the program, the user will click 'File'->'Load' to obtain the necessary data from the database.
 The largest list box that is located in the extreme left displays the names of all of the stations found in the database. 
 The total number of stations is conveniently listed for the user directly below the listbox.
@@ -41,6 +42,6 @@ Finally, the 'Top-10' functionality simply displays the top-10 stations in terms
 Top-10: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExecution/top.PNG
 
 
-Note:
+###### Note:
  Project 7 for this class was this exact program, but all of the SQL queries were being created and executed all within the front-end. 
 Project 8 for this class was to take this exact program and make it more realistic by creating back-end functions that do all of the SQL behind the scenes, while the front-end simply calls said functions.
