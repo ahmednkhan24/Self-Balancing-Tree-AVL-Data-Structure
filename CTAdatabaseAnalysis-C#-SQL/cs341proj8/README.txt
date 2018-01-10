@@ -3,7 +3,7 @@ UIC - CS 341 - Programming Language Design and Implementation - Project 8: CTA D
 This project uses data obtained from a Chicago Transit Authority database. 
 There are 5 unique tables within the database that are all connected using primary and foreign keys.
 
-Tables: INSERT LINK TO TABLE.PNG HERE
+Tables: ![alt text](https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExection/tables.PNG)
 
 
 The program is implemented using C# to create the front-end graphical user interface, 
