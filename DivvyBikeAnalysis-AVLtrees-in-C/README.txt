@@ -1,4 +1,4 @@
-UIC - CS 251 - Data Structures - Project 4: Divvy Bike Ride Analysis using C
+﻿University of Illinois (Chicago): Divvy Bike Ride Analysis using C
 
 This project uses data obtained from the official Divvy Bike website. The files are in .csv format.
 It takes the raw data and creates a self balancing tree that can be searched through in much less than a second.

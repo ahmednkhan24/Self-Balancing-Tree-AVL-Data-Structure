@@ -1,4 +1,4 @@
-UIC - CS 341 - Programming Language Design and Implementation - Project 8: CTA Database Analysis using C# and SQL
+University of Illinois (Chicago): CTA Database Analysis using C# and SQL
 
 This project uses data obtained from a Chicago Transit Authority database. 
 There are 5 unique tables within the database that are all connected using primary and foreign keys.
