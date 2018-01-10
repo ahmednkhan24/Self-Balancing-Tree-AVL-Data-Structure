@@ -11,7 +11,7 @@ and SQL in the back-end to obtain data from the database via SQL queries.
 The program is able to use any type of database that is relevant to the functionality. 
 Changing the database directory can be done at the bottom of the GUI by typing in the mdf file of the database.
 
-Initial Build: INSERT LINK TO CTA1.PNG HERE
+Initial Build: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExection/cta.PNG
 
 
 In order to start the program, the user will click 'File'->'Load' to obtain the necessary data from the database.
@@ -21,7 +21,7 @@ The data to the top right of the stations list box is the statistics calculated 
 including the total number of riders for the station, the average ridership for the station, the overall percentage 
 of riders for this station from the entire database, and the total number of riders for weekdays Saturdays and Sundays/Holidays.
 
-Loading Execution: INSERT LINK TO LOAD.PNG HERE
+Loading Execution: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExection/load.PNG
 
 
 The medium sized list box located in the bottom center displays the names of all the stops located at the currently selected station. 
@@ -32,7 +32,7 @@ The possibility of future construction for handicap accessibility was kept in mi
 button that actually goes into the database and makes a permanent change to the database for handicap accessibility 
 for the currently selected stop.
 
-Stops: INSERT LINK TO STOPS.PNG
+Stops: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExection/stops.PNG
 
 
 The 'Find' functionality finds all stations within the database that have similar names as the entered phrase. 
@@ -40,12 +40,12 @@ For example, I live in Skokie, Illinois and the closest CTA line to me is the ye
 If I wanted to find all the data for the CTA yellow line, I simply have to type a phrase similar to 'yellow' and click find. 
 Then the program will display all of the data found for all stations that contain the specified phrase within the database.
 
-Find: INSERT LINK TO FIND.PNG
+Find: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExection/find.PNG
 
 
 Finally, the 'Top-10' functionality simply displays the top-10 stations in terms of ridership within the database.
 
-Top-10: INSERT LINK TO TOP.PNG
+Top-10: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnalysis-C%23-SQL/cs341proj8/exampleExection/top.PNG
 
 
 Note:
