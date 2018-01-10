@@ -8,7 +8,7 @@ The program is implemented using C# to create the front-end graphical user inter
 
 ## Functionality
 The program starts with the dictionary being built. The dictionary can be changed by entering in the name of the text file desired in the text box located at the bottom of the GUI.
-The letters the program will use are in the 'Letters' text box located at the top left of the GUI. the default letters used are 'tca.' 
+The letters the program will use are in the 'Letters' text box located at the top left of the GUI. The default letters used are 'tca.' 
 
 Clicking the 'Possible Words' button displays all possible words that are in the dictionary file that can be made by a combination of the given letters. The number of possible words that can be created is conveniently located at the bottom left of the GUI.
 
