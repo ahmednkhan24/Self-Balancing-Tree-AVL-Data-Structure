@@ -6,6 +6,7 @@
 Sets are containers that store unique elements following a specific order. The value of the element s in a set cannot be modified once in the container.
 
 ## Functions defined for mySet:
+
 * myset() 
 	– Default constructor: constructs a new, empty set		
 * myset() 
