@@ -1,4 +1,4 @@
-# University of Illinois (Chicago)
+﻿# University of Illinois (Chicago)
 
 # mySet: Creating a generic C++ container
 
@@ -9,7 +9,7 @@ Sets are containers that store unique elements following a specific order. The v
 * myset() 
 	– Default constructor: constructs a new, empty set		
 * myset() 
-	– copy constructor		
+	– Copy constructor		
 * ~myset() 
 	- Destroy all elements in set
 * size() 
