@@ -21,7 +21,7 @@ The two files must be input first before any statistics can be calculated. A sam
 		Input format: bike 'bikeID'
 		Provides overall statistics of the specific bike
 
-
+Example Execution: https://github.com/akhan227/School-Projects/blob/master/DivvyBikeAnalysis-AVLtrees-in-C/exampleExection.PNG
 
 ###### Self Balancing Binary Search Tree Information
 
