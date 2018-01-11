@@ -45,5 +45,6 @@ Top-10: https://github.com/akhan227/School-Projects/blob/master/CTAdatabaseAnaly
 
 
 ###### Note:
+The SQL queries are being created and executed as C# strings.
 Project 7 for this class was this exact program, but all of the SQL queries were being created and executed all within the front-end. 
 Project 8 for this class was to take this exact program and make it more realistic by creating back-end functions that do all of the SQL behind the scenes, while the front-end simply calls said functions.
