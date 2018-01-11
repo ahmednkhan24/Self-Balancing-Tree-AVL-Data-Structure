@@ -36,8 +36,8 @@ A node with a balance factor of 1, 0, or -1 is considered to be balanced.
 Insertion is where the tree may become unbalanced. After inserting a node into the tree it is necessary to traverse back up the tree and fix any unbalancing issues that may have been caused. 
 
 Rebalancing the tree is done by a…
-	Left rotate
-	Right rotate
-	Left-Right rotate
-	Right-Left rotate
+* Left rotate
+* Right rotate
+* Left-Right rotate
+* Right-Left rotate
 
