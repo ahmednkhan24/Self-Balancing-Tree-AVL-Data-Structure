@@ -1,4 +1,4 @@
-# University of Illinois (Chicago)
+﻿# University of Illinois (Chicago)
 
 # Networked Chat with RSA Encryption/Decryption in Java
 
@@ -10,6 +10,8 @@ One user chooses to become the server. An IP address and port number are display
 
 ###### Encryption/Decryption
 Since normal messages can be “stolen” from the packets during transmission, we used the RSA algorithm to provide Encryption/Decryption of the message(s). 
+
+Example Execution: https://github.com/akhan227/School-Projects/blob/master/EncryptedNetworkChatRSA-Java/connect.PNG
 
 ###### Note
 This program was completed between a team of 3 individuals, including myself.
